@@ -19,21 +19,18 @@ class AllNews:
         if self.type1 == 1:
             self.text = input("Enter news text: ")
             self.city = input("Enter city related to the news: ")
-            # from datetime import datetime
             self.news_date = datetime.now().strftime("%d/%m/%Y %H:%M")
             return f"\nNews -------------------\n{self.text}\n{self.city}, {self.news_date}\n" \
                    f"------------------------\n\n"
         if self.type1 == 2:
             self.text = input("Enter advertisement text: ")
             self.exp_date = str(input("Enter expiration date for the advertisement in the format dd/mm/yyyy: "))
-            # from datetime import datetime
             self.days_left = datetime.strptime(self.exp_date, "%d/%m/%Y") - datetime.now()
             return f"\nPrivate Ad ---------------\n{self.text}\nActual until: {self.exp_date}, " \
                    f"{self.days_left.days} days left\n--------------------------\n\n"
         if self.type1 == 3:
             self.text = input("Enter event title and date: ")
             self.city = input("Enter city where the event is organised: ")
-            # from datetime import datetime
             self.news_date = datetime.now().strftime("%d/%m/%Y %H:%M")
             return f"\nEvent announcement-----------\n{self.text}\n{self.city}, {self.news_date}" \
                    f"\n---------------------------\n\n"
