@@ -1,0 +1,69 @@
+
+News -------------------
+Test Good News!!!
+Paris, 12/03/2023 23:05
+------------------------
+
+
+Private Ad ---------------
+Apartment for rent in London
+Actual until: 05/05/2023, 53 days left
+--------------------------
+
+
+Event announcement-----------
+Free city tour on Sundays
+Warsaw, 12/03/2023 23:06
+---------------------------
+
+
+
+News from file ---------------
+Some test news in lowercase
+Molodechno, 05/05/2023 23:01
+------------------------
+
+Private ad from file-----------
+Test advertisement in lowercase
+Actual until: 15/04/2023, 41 days left
+--------------------------
+
+
+
+News
+Some test news from json file
+Minsk
+---------------------------
+
+Privat ad
+Private advertisement from json file
+Actual until: 15/04/2023, 41 days left
+---------------------------
+
+
+
+
+News
+Some test news from json file
+Minsk
+---------------------------
+
+Privat ad
+Private advertisement from json file
+Actual until: 15/04/2023, 41 days left
+---------------------------
+
+
+
+News
+Test news from xml file
+Rome
+---------------------------
+
+Privat ad
+Private advertisement from xml file
+Actual until: 15/04/2023, 41 days left
+---------------------------
+
+
+

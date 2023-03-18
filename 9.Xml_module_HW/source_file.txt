@@ -1,0 +1,9 @@
+news from file ---------------
+some test news in lowercase
+molodechno, 05/05/2023 23:01
+------------------------
+
+private ad from file-----------
+test advertisement in lowercase
+actual until: 15/04/2023, 41 days left
+--------------------------

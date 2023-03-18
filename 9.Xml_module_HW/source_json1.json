@@ -1,0 +1,11 @@
+[{
+ "type": "news",
+ "text": "some test news from json file",
+ "city": "minsk"
+ },
+{
+ "type": "privat ad",
+ "text": "private advertisement from json file",
+ "data": "actual until: 15/04/2023, 41 days left"
+ }
+]
