@@ -1,0 +1,12 @@
+<content>
+  <item type = "News">
+    <type>News</type>
+    <text>test news from xml file</text>
+    <city>Rome</city>
+  </item>
+  <item type = "privat ad">
+    <type>privat ad</type>
+    <text>private advertisement from XML file</text>
+    <city>actual until: 15/04/2023, 41 days left</city>
+  </item>
+</content>
